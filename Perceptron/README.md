@@ -1,7 +1,9 @@
 Task
+
 The goal is to identify the people's opinion on mobile phones using Perceptron. The data points are scraped from 91mobiles.com
 
 File descriptions
+
 train.csv - The training set.
 There are 355 rows with 99 columns. 
 The first column 'PhoneId' is the unique identifier for each phone.
